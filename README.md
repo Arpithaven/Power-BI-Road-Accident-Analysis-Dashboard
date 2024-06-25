@@ -3,14 +3,12 @@
 
 This project is aimed at developing a Power BI Dashboard for generating insights about road accident data in the United Kingdom.
 
+## Acknowlodgement
 
-## Screenshots
 
-![App Screenshot]![Screenshot 2024-06-25 130854](https://github.com/Arpithaven/Power-BI-Road-Accident-Analysis-Dashboard/assets/153346168/34b9704e-6123-48b1-b6fc-e5db6e40c052)
+## Screenshot
 
-## Support
-
-For support, email fake@fake.com or join our Slack channel.
+![Screenshot 2024-06-25 130854](https://github.com/Arpithaven/Power-BI-Road-Accident-Analysis-Dashboard/assets/153346168/34b9704e-6123-48b1-b6fc-e5db6e40c052)
 
 
 ## Dashboard Requirements
