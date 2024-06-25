@@ -1,20 +1,31 @@
-# Power-BI-Road-Accident-Analysis-Dashboard
 
-![Screenshot 2024-06-25 130854](https://github.com/Arpithaven/Power-BI-Road-Accident-Analysis-Dashboard/assets/153346168/34b9704e-6123-48b1-b6fc-e5db6e40c052)
+# Intoduction
 
-### Introduction
 This project is aimed at developing a Power BI Dashboard for generating insights about road accident data in the United Kingdom.
 
-### Dashboard Requirements
-1. Primary KPI's - Total Casualties and Total Accident values for Current Year and YoY Growth
-2. Primary KPI's - Total Casualties by Accident Severity for Current Year and YoY Growth
-3. Secondary KPI's - Total Casualties with respect to Vehicle Type for Current Year
-4. Monthly Trend showing comparison of Casualties for Current Year and Previous Year
-5. Casualties by Road Type for Current Year
-6. Current Year Casualties by Area/Location & Day/Night
-7. Total Casualties and Total Accident by Location
 
-### DAX Formulas Used in Measures
+## Screenshots
+
+![App Screenshot]![Screenshot 2024-06-25 130854](https://github.com/Arpithaven/Power-BI-Road-Accident-Analysis-Dashboard/assets/153346168/34b9704e-6123-48b1-b6fc-e5db6e40c052)
+
+## Support
+
+For support, email fake@fake.com or join our Slack channel.
+
+
+## Dashboard Requirements
+
+-  Primary KPI's - Total Casualties and Total Accident values for Current Year and YoY Growth
+- Primary KPI's - Total Casualties by Accident Severity for Current Year and YoY Growth
+- Secondary KPI's - Total Casualties with respect to Vehicle Type for Current Year
+- Monthly Trend showing comparison of Casualties for Current Year and Previous Year
+- Casualties by Road Type for Current Year
+- Current Year Casualties by Area/Location & Day/Night
+- Total Casualties and Total Accident by Location
+
+
+## DAX Formulas Used in Measures
+
 1. Total Casualties For Current Year and Year on Year Growth
 
   (a) Current Year To Date Casualties -- CY Casualties Measure
@@ -42,6 +53,5 @@ This project is aimed at developing a Power BI Dashboard for generating insights
   (c) Year on Year Growth of Accidents - YoY Accidents Measure
   
       YoY Accidents = ([CY Accidents Count]-[PY Accidents Count])/[PY Accidents Count]
-
 
 
