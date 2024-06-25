@@ -20,7 +20,7 @@ This project is aimed at developing a Power BI Dashboard for generating insights
 - Total Casualties and Total Accident by Location
 
 
-## DAX Formulas Used in Measures
+## DAX Formulae Used in Measures
 
 1. Total Casualties For Current Year and Year on Year Growth
 
